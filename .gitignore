@@ -1,0 +1,6 @@
+*.tar.gz
+backups/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
